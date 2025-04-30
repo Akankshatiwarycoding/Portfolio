@@ -1,0 +1,36 @@
+
+[
+    {
+      "title": "Upstairs",
+      "imageSrc": "img5.png",
+      "description": "Upstairs is a platform that connects users with local electricians, helping them find, evaluate, and schedule reliable services easily",
+      "skills": ["React", "Express", "Node"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "DigiDerma",
+      "imageSrc": "img1.png",
+      "description": "Digiderma is a mobile app that predicts skin diseases from images using machine learning for quick and accurate health insights",
+      "skills": ["Flutter", "Machine Learning","Django"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Signasense",
+      "imageSrc": "project.png",
+      "description": "SignaSense is a mobile app that translates sign language into text or speech, making communication more accessible and inclusive",
+      "skills": ["Flutter", "Machine Learning", "Django"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+        "title": "Moviex",
+        "imageSrc": "project.png",
+        "description": "MovieX is a movie streaming web app that lets users browse, watch, and explore movies with a sleek, Netflix-like interface",
+        "skills": ["Html+css", "javascript", "php"],
+        "demo": "https://www.example.com",
+        "source": "https://www.github.com"
+      }
+  ]
+  
